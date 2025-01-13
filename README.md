@@ -59,5 +59,5 @@ To run this project locally:
 
 ## Contact
 
-You can reach me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-yadav).
+You can reach me at [ay7924252@gmail.com](mailto:ay7924252@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-908639280).
 
